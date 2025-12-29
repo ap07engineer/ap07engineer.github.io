@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+i# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -19,7 +19,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Experienced in CAD, prototyping, and team-based engineering projects across robotics,
   biomedical devices, and aerospace systems.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/selfie
 
 
 # Link your resume
